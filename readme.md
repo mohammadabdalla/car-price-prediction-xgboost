@@ -15,21 +15,19 @@ This project includes:
 
 ## 📁 Project Structure
 
+car-price-prediction-xgboost/
 ├── data/
-│ └── cars.csv -- auto generated
-│
+│   └── cars.csv                 # auto generated
 ├── model/
-│ └── car_price_model.pkl -- auto generated
-│
+│   └── car_price_model.pkl      # auto generated
 ├── api/
-│ └── app.py
-│
+│   └── app.py
 ├── src/
-│ ├── generate_dataset.py
-│ └── train_model.py
-│
+│   ├── generate_dataset.py
+│   └── train_model.py
 ├── requirements.txt
 └── README.md
+
 
 
 ---
